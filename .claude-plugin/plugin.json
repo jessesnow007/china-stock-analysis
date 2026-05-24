@@ -1,8 +1,0 @@
-{
-  "name": "china-stock-analysis",
-  "description": "中国A股市场分析技能，提供股票数据分析、K线解读、技术指标分析等功能",
-  "version": "1.0.0",
-  "author": {
-    "name": "xiepengfei"
-  }
-}
